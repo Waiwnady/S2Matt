@@ -1,1 +1,1 @@
-# S-Matt
+# S²-Matt
