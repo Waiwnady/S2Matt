@@ -2,4 +2,8 @@
 
 Yet another image matting algorithm.
 
+Perf on adobe image dataset.
+
+SAD:22.7-MSE:3.6-GRAD:7.8-CONN1:7.5
+
 Code on the way.
